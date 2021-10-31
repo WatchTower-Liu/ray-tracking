@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\ray tracing\ray tracing test\ray tracing test\main.cpp(72): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+d:\ray tracing\ray tracing test\ray tracing test\main.cpp(73): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+  ray tracing test.vcxproj -> D:\ray tracing\ray tracing test\x64\Debug\ray tracing test.exe
