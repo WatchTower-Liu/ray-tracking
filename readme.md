@@ -1,2 +1,2 @@
 # ray-tracing
-![The renderings](https://github.com/WatchTower-Liu/ray-tracing/raw/master/raytracing.jpg)
+![The renderings](https://github.com/WatchTower-Liu/ray-tracing/blob/main/raytracing.jpg)
